@@ -21,8 +21,9 @@ body,html{
 	padding-top:100px;
 	padding-bottom: 300px;
 }
-div.btn-primary{
+header div.btn-primary{
 	padding:15px 55px;
+	margin:auto;
 }
 /*create animation for button*/
 .btn:hover{
